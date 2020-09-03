@@ -1,4 +1,8 @@
 body {
-	display: grid;
-	grid-template-columns: 2fr 8fr
+  display: grid;
+  grid-template-columns: 2fr 8fr;
+}
+
+.hidden {
+  display: none;
 }
